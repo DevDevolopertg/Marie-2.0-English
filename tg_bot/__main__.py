@@ -19,11 +19,15 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 *Hello* *{}* .. *I'm* *a* *Group* *Managing* *Robot* *Exclusively* *Made* *for* *"* *BUTTERFLY* *MEDIA* *"* *Group..🦋*
+
 *📍* *I* *Won't* *Reply* *to* *Personal* 
 *📌* *You* *can* *contact* *me*
       *Through* *:* *@Entha_Karyam*
+      
 *@butterflymedia*
+
   *Thank* *You* *🎀*
+  
 *Using* *standard* [Marie](http://telegram.dog/BanhammerMarie_bot) *is* *always* *gonna* *be* *easier.*
 [🔰 My Group](buttonurl:https://t.me/cenimavilla1999)[🔰 My Channel Lst](buttonurl:https://t.me/cinemavilla_1/8761)
 
